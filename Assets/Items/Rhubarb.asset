@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11ae98eb5e33cdf4bb58cb1dfb298659, type: 3}
+  m_Name: Rhubarb
+  m_EditorClassIdentifier: 
+  itemName: Rhubarb
+  itemPrice: 1
+  itemQuality: 0
+  itemIndex: rhubarb
+  itemIcon: {fileID: 21300000, guid: c72234ddc98527144ad773907041e2fa, type: 3}
+  itemPrefab: {fileID: 1951675479784854650, guid: 302e38bbe156b9941bfef69f5e0d7498, type: 3}

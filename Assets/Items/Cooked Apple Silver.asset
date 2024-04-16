@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11ae98eb5e33cdf4bb58cb1dfb298659, type: 3}
+  m_Name: Cooked Apple Silver
+  m_EditorClassIdentifier: 
+  itemName: Cooked Apple Silver
+  itemPrice: 3
+  itemQuality: 2
+  itemIndex: cooked_apple
+  itemIcon: {fileID: 21300000, guid: e823dfa8b991ea04ab872b8221bbbccd, type: 3}
+  itemPrefab: {fileID: 8509551242567104260, guid: 35b16b5e819e75c41b6345ad99669aa5, type: 3}

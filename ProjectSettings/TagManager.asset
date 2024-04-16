@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FoodObj
+  - RedBar
+  - YellowBar
+  - GreenBar
+  - Fuel
+  - NPC
+  - UI
+  - Workstation
+  - Mortar
+  - Cauldron
+  - Pestle
+  - Mortal
+  - FuelSpot
+  - Spoon
+  - CuttingBoard
+  - FoodSpot
+  - Furnace
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Base
+  - Obstacles
+  - Food
+  - MortalAndPestle
+  - CauldronAndSpoon
+  - CuttingBoard
+  - FoodSpot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Normal game view
+    uniqueID: 2419008837
+    locked: 0
+  - name: Food
+    uniqueID: 1731141551
+    locked: 0
+  - name: Overlays
+    uniqueID: 1680677257
+    locked: 0
+  - name: Over overlays
+    uniqueID: 3986950799
+    locked: 0
+  - name: PauseMenu
+    uniqueID: 1731434263
+    locked: 0

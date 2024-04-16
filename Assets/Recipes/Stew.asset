@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fdfadb748d84014f91d4daed1bee347, type: 3}
+  m_Name: Stew
+  m_EditorClassIdentifier: 
+  firstItem: {fileID: 11400000, guid: 868456ad5155b144d92a7e2d504cf424, type: 2}
+  firstItemAmount: 2
+  secondItem: {fileID: 11400000, guid: f38b36ade0a480b44b315c4c90d94c0c, type: 2}
+  secondItemAmount: 2
+  thirdItem: {fileID: 0}
+  thirdItemAmount: 0
+  result: {fileID: 11400000, guid: d5466a2ed4a31384c9c808db5e5f4cb5, type: 2}
+  resultAmount: 1
+  mortar: 0
+  furnace: 0
+  cuttingBoard: 0
+  cauldron: 1

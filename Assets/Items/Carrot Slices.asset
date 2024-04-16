@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11ae98eb5e33cdf4bb58cb1dfb298659, type: 3}
+  m_Name: Carrot Slices
+  m_EditorClassIdentifier: 
+  itemName: Carrot Slices
+  itemPrice: 1
+  itemQuality: 0
+  itemIndex: carrot_slices
+  itemIcon: {fileID: -1294571970, guid: 78743cd8b534ad04d85f11e310ce8c91, type: 3}
+  itemPrefab: {fileID: 5518019517783477864, guid: 1c8feb042cf0718409f3cfec481e071e, type: 3}

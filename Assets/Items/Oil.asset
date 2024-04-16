@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11ae98eb5e33cdf4bb58cb1dfb298659, type: 3}
+  m_Name: Oil
+  m_EditorClassIdentifier: 
+  itemName: Oil
+  itemPrice: 1
+  itemQuality: 0
+  itemIndex: oil
+  itemIcon: {fileID: 21300000, guid: bf9b8cda80881364ab1f7b418c83baf0, type: 3}
+  itemPrefab: {fileID: 2165470792361926972, guid: 50b45dc831f6af34ebbf07a073009f71, type: 3}
